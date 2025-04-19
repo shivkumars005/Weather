@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <title>Weather Application</title>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Weather Application</h1>
+            <section class="inputs">
+                <input type="text" placeholder="Enter city name..." id="cityInput">
+                <button id="submitButton">Get Weather Report</button>
+            </section>
+            <section class="output">
+                <div class="outputScreen">
+                    <h2 id="cityOutput"></h2>
+                    <p id="descriptionOutput"></p>
+                    <p id="temperatureOutput"></p>
+                    <p id="windOutput"></p>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
