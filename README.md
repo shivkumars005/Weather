@@ -25,3 +25,7 @@
     *CSS
     *JavaScript
     *OpenWeatherMap API
+# Contact me
+   Linkedin : https://www.linkedin.com/in/shivakumarsouta
+   Email : shivakumarsouta18@gmail.com
+   
