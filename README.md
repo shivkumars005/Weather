@@ -25,7 +25,7 @@
     *CSS
     *JavaScript
     *OpenWeatherMap API
-# Contact me
-   Linkedin : https://www.linkedin.com/in/shivakumarsouta
-   Email : shivakumarsouta18@gmail.com
-   
+# Contact
+* LinkedIn : <a href="https://www.linkedin.com/in/shivakumarsouta/" target="_blank">My LinkedIn</a>
+* Email : shivakumarsouta18@gmail.com
+* Portfolio : <a href="https://shivakumarsouta-portfolio.vercel.app/" target="_blank">View my portfolio</a>
