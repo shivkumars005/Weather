@@ -20,6 +20,9 @@
     *Enter a city name in the input field.
     *Click the "Get Weather Report" button to view the weather details.
 
+# Live preview
+   * You can view the project live at <a href="https://weatherappbysks.netlify.app/" target="_blank">Live 🌐</a>
+
 # Technologies Used
     *HTML
     *CSS
@@ -29,3 +32,5 @@
 * LinkedIn : <a href="https://www.linkedin.com/in/shivakumarsouta/" target="_blank">My LinkedIn</a>
 * Email : shivakumarsouta18@gmail.com
 * Portfolio : <a href="https://shivakumarsouta-portfolio.vercel.app/" target="_blank">View my portfolio</a>
+
+
